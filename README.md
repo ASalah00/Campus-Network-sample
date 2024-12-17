@@ -6,7 +6,8 @@ and students have access to PCs in the labs.
 Requirements:
 
 a. Create a network topology with the main components to support the following:
-. Main campus:
+.
+Main campus:
 
 o Building A: Administrative staff in the departrhents of management, HR and
 finance. The admin staff PCs are distributed in the building offices and it is
