@@ -21,8 +21,9 @@ o Building C: Students' labs and IT department. The IT department hosts the
 University Web server and other servers
 
 o There is also an email server hosted externally on the cloud.
-· Smaller campus:
+· 
 
+Smaller campus:
 o Faculty of Health and Sciences (staff and students' labs are situated on
 separate floors)
 
